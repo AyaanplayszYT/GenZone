@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules
+dist
+dist-ssr
+*.local
+.env
+# Build files
+build
+build-ssr   
